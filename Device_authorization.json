@@ -1,10 +1,12 @@
 [
   {
     "device_ID": "2822ed3aef173439",
-    "userName": "DIKO"
+    "userName": "DIKO",
+    "status" : "Active"
   },
   {
     "device_ID": "",
-    "userName": "Roninn"
+    "userName": "Roninn",
+    "status" : "Active"
   }
 ]
