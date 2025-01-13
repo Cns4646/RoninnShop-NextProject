@@ -2,11 +2,13 @@
   {
     "device_ID": "2822ed3aef173439",
     "userName": "DIKO",
-    "status" : "Active"
+    "status" : "Active",
+    "userStatus" : "Owner"
   },
   {
     "device_ID": "",
     "userName": "Roninn",
-    "status" : "Active"
+    "status" : "Active",
+    "userStatus" : "Owner"
   }
 ]
