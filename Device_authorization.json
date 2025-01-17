@@ -3,12 +3,14 @@
     "device_ID": "2822ed3aef173439",
     "userName": "DIKO",
     "status" : "Active",
-    "userStatus" : "Owner"
+    "userStatus" : "Owner",
+    "profileImage" : ""
   },
   {
     "device_ID": "",
     "userName": "Roninn",
     "status" : "Active",
-    "userStatus" : "Owner"
+    "userStatus" : "Owner",
+    "profileImage" : ""
   }
 ]
