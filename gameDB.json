@@ -8,5 +8,15 @@
     "gameIMGType": "Asset",
     "status": "Active",
     "database": []
+  },
+  {
+    "gameName": "PUBG Mobile",
+    "gameUID": "PUBG",
+    "databaseUID": "50 55 42 47",
+    "databaseUIDmethod": "Hex",
+    "gameIMG": "PUBG.jpg",
+    "gameIMGType": "Asset",
+    "status": "Active",
+    "database": []
   }
 ]
