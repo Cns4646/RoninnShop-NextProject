@@ -18,5 +18,15 @@
     "gameIMGType": "Asset",
     "status": "Active",
     "database": []
+  },
+  {
+    "gameName": "Honor of Kings",
+    "gameUID": "HOK",
+    "databaseUID": "48 4F 4B",
+    "databaseUIDmethod": "Hex",
+    "gameIMG": "HOK.jpg",
+    "gameIMGType": "Asset",
+    "status": "Active",
+    "database": []
   }
 ]
