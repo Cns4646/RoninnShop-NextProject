@@ -5,6 +5,7 @@
     "databaseUID": "20 4D 4C 42 42",
     "databaseUIDmethod": "Hex",
     "gameIMG": "MLBB.jpg",
+    "gameIMGType": "asset",
     "status": "Active",
     "database": []
   }
