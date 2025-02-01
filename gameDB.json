@@ -1,0 +1,11 @@
+[
+  {
+    "gameName": "Mobile Legend",
+    "gameUID": "MLBB",
+    "databaseUID": "20 4D 4C 42 42",
+    "databaseUIDmethod": "Hex",
+    "gameIMG": "MLBB.jpg",
+    "status": "Active",
+    "database": []
+  }
+]
