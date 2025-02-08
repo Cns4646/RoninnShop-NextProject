@@ -6,6 +6,7 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "MLBB.jpg",
     "gameIMGType": "Asset",
+    "gameChoose" : false,
     "status": "Active",
     "database": []
   },
@@ -16,6 +17,7 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "PUBG.jpg",
     "gameIMGType": "Asset",
+    "gameChoose" : false,
     "status": "Active",
     "database": []
   },
@@ -26,6 +28,7 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "HOK.jpeg",
     "gameIMGType": "Asset",
+    "gameChoose" : false,
     "status": "Active",
     "database": []
   }
