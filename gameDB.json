@@ -6,9 +6,22 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "MLBB.jpg",
     "gameIMGType": "Asset",
-    "gameChoose" : false,
+    "gameChoose": false,
     "status": "Active",
-    "database": []
+    "database": {
+      "priceServerType": [
+        {
+          "serverName": "Myanmar",
+          "priceType": "KYAT",
+          "ID": "MLBB-Myanmar"
+        },
+        {
+          "serverName": "Thailand",
+          "priceType": "BAHT",
+          "ID": "MLBB-Thailand"
+        }
+      ]
+    }
   },
   {
     "gameName": "PUBG Mobile",
@@ -17,9 +30,9 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "PUBG.jpg",
     "gameIMGType": "Asset",
-    "gameChoose" : false,
+    "gameChoose": false,
     "status": "Active",
-    "database": []
+    "database": {}
   },
   {
     "gameName": "Honor of Kings",
@@ -28,8 +41,8 @@
     "databaseUIDmethod": "Hex",
     "gameIMG": "HOK.jpeg",
     "gameIMGType": "Asset",
-    "gameChoose" : false,
+    "gameChoose": false,
     "status": "Active",
-    "database": []
+    "database": {}
   }
 ]
