@@ -32,7 +32,20 @@
     "gameIMGType": "Asset",
     "gameChoose": false,
     "status": "Active",
-    "database": {}
+    "database": {
+      "priceServerType": [
+        {
+          "serverName": "Myanmar",
+          "priceType": "KYAT",
+          "ID": "PUBG-Myanmar"
+        },
+        {
+          "serverName": "Thailand",
+          "priceType": "BAHT",
+          "ID": "PUBG-Thailand"
+        }
+      ]
+    }
   },
   {
     "gameName": "Honor of Kings",
@@ -43,6 +56,19 @@
     "gameIMGType": "Asset",
     "gameChoose": false,
     "status": "Active",
-    "database": {}
+    "database": {
+      "priceServerType": [
+        {
+          "serverName": "Myanmar",
+          "priceType": "KYAT",
+          "ID": "HOK-Myanmar"
+        },
+        {
+          "serverName": "Thailand",
+          "priceType": "BAHT",
+          "ID": "HOK-Thailand"
+        }
+      ]
+    }
   }
 ]
