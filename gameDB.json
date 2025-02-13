@@ -20,7 +20,8 @@
           "priceType": "BAHT",
           "ID": "MLBB-Thailand"
         }
-      ]
+      ],
+      "autoItemBase": []
     }
   },
   {
@@ -44,7 +45,8 @@
           "priceType": "BAHT",
           "ID": "PUBG-Thailand"
         }
-      ]
+      ],
+      "autoItemBase": []
     }
   },
   {
@@ -68,7 +70,8 @@
           "priceType": "BAHT",
           "ID": "HOK-Thailand"
         }
-      ]
+      ],
+      "autoItemBase": []
     }
   }
 ]
