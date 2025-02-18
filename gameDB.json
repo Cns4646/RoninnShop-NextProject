@@ -21,7 +21,12 @@
           "ID": "MLBB-Thailand"
         }
       ],
-      "autoItemBase": []
+      "autoItemBase": [
+        {
+          "itemName": "Weekly Diamond Pass",
+          "numberOfCoin": "34.3"
+        }
+      ]
     }
   },
   {
