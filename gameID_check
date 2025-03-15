@@ -1,0 +1,20 @@
+{
+  "20 4D 4C 42 42": {
+    "smileone": {
+      "url": "https://www.smile.one/merchant/mobilelegends/checkrole",
+      "body": "{\n\t\"user_id\": \"\",\n\t\"zone_id\": \"\",\n\t\"pid\": \"25\",\n\t\"checkrole\": 1,\n\t\"pay_methond\": \"smileone\",\n\t\"channel_method\": \"smileone\"\n}"
+    },
+    "postman": {
+      "url": "https://api.isan.eu.org/nickname/ml",
+      "insetUrl": "?id=1114917746&zone=13486"
+    },
+    "rapidapi": {
+      "url": "https://id-game-checker.p.rapidapi.com/mobile-legends/GameID/ServerID"
+    },
+    "req": "gameID/serverID"
+  },
+  "rapidapi": {
+    "x-rapidapi-key": "489c863fb6msh9094aff3e123764p15b9cdjsn7922a335329f",
+    "x-rapidapi-host": "id-game-checker.p.rapidapi.com"
+  }
+}
