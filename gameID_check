@@ -11,7 +11,8 @@
     "rapidapi": {
       "url": "https://id-game-checker.p.rapidapi.com/mobile-legends/GameID/ServerID"
     },
-    "req": "gameID/serverID"
+    "req": "gameID/serverID",
+    "gameType": "MLBB"
   },
   "rapidapi": {
     "x-rapidapi-key": "489c863fb6msh9094aff3e123764p15b9cdjsn7922a335329f",
