@@ -12,5 +12,12 @@
     "status" : "Active",
     "userStatus" : "Owner",
     "profileImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9dqz5M2xo-LAlL_5wFJgNxppPQAPwn0bdJH_xQwX2-RmZgrkQkO6nVg&s=10"
+  },
+  {
+    "device_ID": "",
+    "userName": "Mg Soe Lin",
+    "status" : "Active",
+    "userStatus" : "Admin",
+    "profileImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9dqz5M2xo-LAlL_5wFJgNxppPQAPwn0bdJH_xQwX2-RmZgrkQkO6nVg&s=10"
   }
 ]
