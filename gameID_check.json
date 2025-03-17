@@ -14,6 +14,10 @@
       "x-rapidapi-host": "id-game-checker.p.rapidapi.com"
     },
     "req": "gameID/serverID",
-    "gameType": "MLBB"
+    "gameStatus": "Active"
+  },
+  "50 55 42 47": {
+    "req": "gameID",
+    "gameStatus": "notActive"
   }
 }
