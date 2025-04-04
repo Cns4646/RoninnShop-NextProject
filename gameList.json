@@ -3,6 +3,7 @@
     "game_name": "Mobile Legend : Bang Bang",
     "game_image": "https://www.atagamingshop.com/Thai/Image/MLBB.png",
     "game_description": "",
-    "gameID": 100
+    "gameID": 100,
+    "status": true
   }
 ]
