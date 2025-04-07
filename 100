@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1",
+    "title": "Weekly Pass",
+    "description": "",
+    "price": "6500 Ks",
+    "image": "Image/Weekly Pass.jpg",
+    "bonus": "",
+    "status": "Sold Out"
+  },
+  {
+    "id": "2",
+    "title": "Twilight Pass",
+    "description": "",
+    "price": "35000 Ks",
+    "image": "Image/Twilight Pass.jpg",
+    "bonus": "",
+    "status": "Sold Out"
+  },
+  {
+    "id": "3",
+    "title": "Super Value Pass",
+    "description": "",
+    "price": "4000 Ks",
+    "image": "Image/Super Value Pass.jpg",
+    "bonus": "",
+    "status": "Sold Out"
+  },
+  {
+    "id": "18",
+    "title": "Double-50",
+    "description": "50+5 Bonus",
+    "price": "4000 Ks",
+    "image": "Image/Double Diamond Pass.jpg",
+    "bonus": "5",
+    "status": "Sold Out"
+  },
+  {
+    "id": "19",
+    "title": "Double-150",
+    "description": "150+15 Bonus",
+    "price": "10000 Ks",
+    "image": "Image/Double Diamond Pass.jpg",
+    "bonus": "15",
+    "status": "Sold Out"
+  },
+  {
+    "id": "20",
+    "title": "Double-250",
+    "description": "250+25 Bonus",
+    "price": "16000 Ks",
+    "image": "Image/Double Diamond Pass.jpg",
+    "bonus": "25",
+    "status": "Sold Out"
+  },
+  {
+    "id": "21",
+    "title": "Double-500",
+    "description": "500+65 Bonus",
+    "price": "33000 Ks",
+    "image": "Image/Double Diamond Pass.jpg",
+    "bonus": "65",
+    "status": "Sold Out"
+  },
+  {
+    "id": "4",
+    "title": "11 Dia",
+    "description": "10+1 Bonus",
+    "price": "1000 Ks",
+    "image": "Image/Dia1.jpg",
+    "bonus": "1",
+    "status": "Sold Out"
+  },
+  {
+    "id": "5",
+    "title": "56 Dia",
+    "description": "51+5 Bonus",
+    "price": "4500 Ks",
+    "image": "Image/Dia1.jpg",
+    "bonus": "5",
+    "status": "Sold Out"
+  },
+  {
+    "id": "6",
+    "title": "86 Dia",
+    "description": "78+8 Bonus",
+    "price": "5500 Ks",
+    "image": "Image/Dia1.jpg",
+    "bonus": "8",
+    "status": "Sold Out"
+  },
+  {
+    "id": "7",
+    "title": "172 Dia",
+    "description": "156+16 Bonus",
+    "price": "11000 Ks",
+    "image": "Image/Dia1.jpg",
+    "bonus": "16",
+    "status": "Sold Out"
+  },
+  {
+    "id": "8",
+    "title": "257 Dia",
+    "description": "234+23 Bonus",
+    "price": "16000 Ks",
+    "image": "Image/Dia1.jpg",
+    "bonus": "23",
+    "status": "Sold Out"
+  },
+  {
+    "id": "9",
+    "title": "343 Dia",
+    "description": "312+31 Bonus",
+    "price": "21000 Ks",
+    "image": "Image/Dia2.jpg",
+    "bonus": "31",
+    "status": "Sold Out"
+  },
+  {
+    "id": "10",
+    "title": "429 Dia",
+    "description": "390+39 Bonus",
+    "price": "26000 Ks",
+    "image": "Image/Dia2.jpg",
+    "bonus": "39",
+    "status": "Sold Out"
+  },
+  {
+    "id": "11",
+    "title": "600 Dia",
+    "description": "546+54 Bonus",
+    "price": "37000 Ks",
+    "image": "Image/Dia2.jpg",
+    "bonus": "54",
+    "status": "Sold Out"
+  },
+  {
+    "id": "12",
+    "title": "706 Dia",
+    "description": "625+81 Bonus",
+    "price": "41000 Ks",
+    "image": "Image/Dia3.jpg",
+    "bonus": "81",
+    "status": "Sold Out"
+  },
+  {
+    "id": "13",
+    "title": "1049 Dia",
+    "description": "937+112 Bonus",
+    "price": "62000 Ks",
+    "image": "Image/Dia3.jpg",
+    "bonus": "112",
+    "status": "Sold Out"
+  },
+  {
+    "id": "14",
+    "title": "2195 Dia",
+    "description": "1860+335 Bonus",
+    "price": "125000 Ks",
+    "image": "Image/Dia4.jpg",
+    "bonus": "335",
+    "status": "Sold Out"
+  },
+  {
+    "id": "15",
+    "title": "3688 Dia",
+    "description": "3099+589 Bonus",
+    "price": "207000 Ks",
+    "image": "Image/Dia4.jpg",
+    "bonus": "589",
+    "status": "Sold Out"
+  },
+  {
+    "id": "16",
+    "title": "5532 Dia",
+    "description": "4649+883 Bonus",
+    "price": "311000 Ks",
+    "image": "Image/Dia5.jpg",
+    "bonus": "883",
+    "status": "Sold Out"
+  },
+  {
+    "id": "17",
+    "title": "9288 Dia",
+    "description": "7740+1548 Bonus",
+    "price": "517000 Ks",
+    "image": "Image/Dia6.jpg",
+    "bonus": "1548",
+    "status": "Sold Out"
+  }
+]
