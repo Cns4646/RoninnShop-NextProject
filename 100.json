@@ -59,7 +59,7 @@
     "id": "4",
     "name": "11 Dia",
     "bonus": "10+1 Bonus",
-    "price": "1000 Ks",
+    "m-price": "1000 Ks",   // Fixed the field to 'm-price'
     "t-price": " BATH",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/10_MLBB_NewDemom.png"
   },
