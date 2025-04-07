@@ -3,18 +3,21 @@
     "id": "1",
     "name": "Weekly Pass",
     "price": "6500 Ks",
+    "bonus": "",
     "image": "Image/Weekly Pass.jpg"
   },
   {
     "id": "2",
     "name": "Twilight Pass",
     "price": "35000 Ks",
+    "bonus": "",
     "image": "Image/Twilight Pass.jpg"
   },
   {
     "id": "3",
     "name": "Super Value Pass",
     "price": "4000 Ks",
+    "bonus": "",
     "image": "Image/Super Value Pass.jpg"
   },
   {
