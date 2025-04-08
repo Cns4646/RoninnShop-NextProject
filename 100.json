@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Weekly Diamond Pass",
-    "m-price": "6500 Ks",
+    "m-price": "6500",
     "t-price": "",
     "bonus": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/100x100/MLBB_Weekly_Diamond_Pass.png"
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "name": "Twilight Pass",
-    "m-price": "35000 Ks",
+    "m-price": "35000",
     "t-price": "",
     "bonus": "",
     "image": "https://www.atagamingshop.com/Image/Twilight%20Pass.jpg"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "name": "Super Value Pass",
-    "m-price": "4000 Ks",
+    "m-price": "4000",
     "t-price": "",
     "bonus": "",
     "image": "https://www.atagamingshop.com/Image/Super%20Value%20Pass.jpg"
@@ -27,7 +27,7 @@
     "id": "18",
     "name": "Double-50",
     "bonus": "50+5 Bonus",
-    "m-price": "4000 Ks",
+    "m-price": "4000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/first%20recharge150_MLBB_NewDemom-min.png"
   },
@@ -35,7 +35,7 @@
     "id": "19",
     "name": "Double-150",
     "bonus": "150+15 Bonus",
-    "m-price": "10000 Ks",
+    "m-price": "10000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/Diamond%202%20First%20Recharge-150x150.png"
   },
@@ -43,7 +43,7 @@
     "id": "20",
     "name": "Double-250",
     "bonus": "250+25 Bonus",
-    "m-price": "16000 Ks",
+    "m-price": "16000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/Diamond%202%20First%20Recharge-150x150.png"
   },
@@ -51,7 +51,7 @@
     "id": "21",
     "name": "Double-500",
     "bonus": "500+65 Bonus",
-    "m-price": "33000 Ks",
+    "m-price": "33000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/Diamond%203%20First%20Recharge-150x150.png"
   },
@@ -59,7 +59,7 @@
     "id": "4",
     "name": "11 Dia",
     "bonus": "10+1 Bonus",
-    "m-price": "1000 Ks",   // Fixed the field to 'm-price'
+    "m-price": "1000",   // Fixed the field to 'm-price'
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/10_MLBB_NewDemom.png"
   },
@@ -67,7 +67,7 @@
     "id": "5",
     "name": "56 Dia",
     "bonus": "51+5 Bonus",
-    "m-price": "4500 Ks",
+    "m-price": "4500",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/10_MLBB_NewDemom.png"
   },
@@ -75,71 +75,71 @@
     "id": "6",
     "name": "86 Dia",
     "bonus": "78+8 Bonus",
-    "m-price": "5500 Ks",
-    "t-price": "45 B",
+    "m-price": "5500",
+    "t-price": "45",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/10_MLBB_NewDemom.png"
   },
   {
     "id": "7",
     "name": "172 Dia",
     "bonus": "156+16 Bonus",
-    "m-price": "11000 Ks",
-    "t-price": "90 B",
+    "m-price": "11000",
+    "t-price": "90",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/150x250_MLBB_NewDemom.png"
   },
   {
     "id": "8",
     "name": "257 Dia",
     "bonus": "234+23 Bonus",
-    "m-price": "16000 Ks",
-    "t-price": "150 B",
+    "m-price": "16000",
+    "t-price": "150",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/150x250_MLBB_NewDemom.png"
   },
   {
     "id": "9",
     "name": "343 Dia",
     "bonus": "312+31 Bonus",
-    "m-price": "21000 Ks",
-    "t-price": "170 B",
+    "m-price": "21000",
+    "t-price": "170",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/150x250_MLBB_NewDemom.png"
   },
   {
     "id": "10",
     "name": "429 Dia",
     "bonus": "390+39 Bonus",
-    "m-price": "26000 Ks",
-    "t-price": "210 B",
+    "m-price": "26000",
+    "t-price": "210",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/150x250_MLBB_NewDemom.png"
   },
   {
     "id": "11",
     "name": "600 Dia",
     "bonus": "546+54 Bonus",
-    "m-price": "37000 Ks",
-    "t-price": "255 B",
+    "m-price": "37000",
+    "t-price": "255",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/500_MLBB_NewDemom.png"
   },
   {
     "id": "12",
     "name": "706 Dia",
     "bonus": "625+81 Bonus",
-    "m-price": "41000 Ks",
-    "t-price": "330 B",
+    "m-price": "41000",
+    "t-price": "330",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/500_MLBB_NewDemom.png"
   },
   {
     "id": "13",
     "name": "1049 Dia",
     "bonus": "937+112 Bonus",
-    "m-price": "62000 Ks",
-    "t-price": "490 B",
+    "m-price": "62000",
+    "t-price": "490",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/1500_MLBB_NewDemom.png"
   },
   {
     "id": "14",
     "name": "2195 Dia",
     "bonus": "1860+335 Bonus",
-    "m-price": "125000 Ks",
+    "m-price": "125000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/1500_MLBB_NewDemom.png"
   },
@@ -147,7 +147,7 @@
     "id": "15",
     "name": "3688 Dia",
     "bonus": "3099+589 Bonus",
-    "m-price": "207000 Ks",
+    "m-price": "207000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/2500_MLBB_NewDemom.png"
   },
@@ -155,7 +155,7 @@
     "id": "16",
     "name": "5532 Dia",
     "bonus": "4649+883 Bonus",
-    "m-price": "311000 Ks",
+    "m-price": "311000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/5000_MLBB_NewDemom.png"
   },
@@ -163,7 +163,7 @@
     "id": "17",
     "name": "9288 Dia",
     "bonus": "7740+1548 Bonus",
-    "m-price": "517000 Ks",
+    "m-price": "517000",
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/5000_MLBB_NewDemom.png"
   }
