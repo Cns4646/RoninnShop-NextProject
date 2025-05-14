@@ -187,5 +187,14 @@
     "t-price": "",
     "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/5000_MLBB_NewDemom.png",
     "type": 0
+  },
+  {
+    "id": "18",
+    "name": "1824 Dia",
+    "bonus": "7740+1548 Bonus",
+    "m-price": "160000",
+    "t-price": "",
+    "image": "https://cdn1.codashop.com/S/content/common/images/denom-image/MLBB/150x150/5000_MLBB_NewDemom.png",
+    "type": 0
   }
 ]
